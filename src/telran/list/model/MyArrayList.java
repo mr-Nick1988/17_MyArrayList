@@ -70,7 +70,7 @@ public class MyArrayList<E> implements IList<E> {
         }
     }
 
-    // O(1)
+     // O(1)
     @Override
     @SuppressWarnings("unchecked")
     public E get(int index) {
